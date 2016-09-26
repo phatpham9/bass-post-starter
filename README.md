@@ -2,7 +2,8 @@
 
 [![Build Status](https://travis-ci.org/phatpham9/bass-post-starter.svg?branch=master)](https://travis-ci.org/phatpham9/bass-post-starter)
 [![Dependencies Status](https://david-dm.org/phatpham9/bass-post-starter.svg)](https://github.com/phatpham9/bass-post-starter)
-[![Paypal Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/phatpham9)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/phatpham9/bass-post-starter/raw/master/LICENSE)
+[![Paypal Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/phatpham9)
 [![Fork](https://img.shields.io/github/forks/phatpham9/bass-post-starter.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/phatpham9/bass-post-starter#fork-destination-box)
 
 BassCSS and PostCSS Starter Kit
